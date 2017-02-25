@@ -1,22 +1,21 @@
-## Project Name:  Income Tax Calculator Application
+## Project Name:  Expense Calculator Application
 
 ### Course Title:
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 24, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Alandra Brown)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We were required to create a tax calculator and figure out how to calculate the tax brackets.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://alandrabrown.github.io/lesson5_javascript2/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned about various tax brackets.)
+2. (I learned how to create formulas to make up a calculator.)
+3. (I learned how to clear the results of the calculations.)
